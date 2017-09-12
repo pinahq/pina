@@ -2,8 +2,6 @@
 
 return array(
     'default' => array(
-        'Core',
-        'Language',
-        'Welcome',
+        'Pina\\Modules\\Homepage',
     ),
 );
