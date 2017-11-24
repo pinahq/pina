@@ -3,5 +3,5 @@
 ## Installing via Composer Create-Project
 
 ```
-composer create-project --prefer-dist laravel/laravel blog
+composer create-project --prefer-dist pinahq/pina yourprojectname
 ```
